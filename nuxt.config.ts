@@ -20,8 +20,8 @@ export default defineNuxtConfig({
       link: [
         {
           rel: 'icon',
-          type: 'image/svg',
-          href: '/flask.svg',
+          type: 'image/png',
+          href: '/loggo.png',
         },
       ],
     },
